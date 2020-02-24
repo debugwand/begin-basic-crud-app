@@ -7,6 +7,7 @@ plant-umh
 get /todos
 post /todos
 post /todos/delete
+get /test
 
 @tables
 data
